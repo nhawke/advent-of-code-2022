@@ -1,2 +1,5 @@
 # Rust builds
 target/
+
+# Vim swap files
+*.swp
